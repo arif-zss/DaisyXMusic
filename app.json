@@ -10,7 +10,7 @@
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "A bot token from @BotFather",
+      "description": "A bot token from @BotfuckingFather",
       "required": true
     },
     "BOT_NAME": {
