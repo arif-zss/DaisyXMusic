@@ -19,7 +19,7 @@
       "value": ""
     },
     "API_ID": {
-      "description": "App ID from and my my my.telegram.org/apps",
+      "description": "App ID from my.telegram.org/apps",
       "required": true
     },
     "API_HASH": {
